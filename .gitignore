@@ -7,7 +7,6 @@ checkpoints/
 *.pt
 *.pkl
 *.sh
-*.txt
 json/
 out/
 err/
@@ -92,4 +91,3 @@ cython_debug/
 wandb
 data
 wandb/
-data/

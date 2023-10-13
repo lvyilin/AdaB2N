@@ -1,0 +1,11 @@
+python==3.10.9
+torch==2.0.0
+torchvision
+numpy
+setproctitle
+six
+wandb
+onedrivedownloader
+av
+tqdm
+pandas
