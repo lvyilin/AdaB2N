@@ -13,7 +13,7 @@ pip install -r requirements.txt
 We use [Weights & Biases](https://wandb.ai/site) to log the results. After installing the requirements, type `wandb login` to bind your api key.
 
 ## Usage
-We provide a launcher to run the experiments conveniently. For instance, use the following command to reproduce the experiments in Table 1 and Table 2 of the paper. 
+We provide a launcher to run the experiments conveniently. For instance, use the following command to reproduce the experiments in Table 2 and Table 3 of the paper. 
 ```shell
 python run.py --interpreter `which python` --num_seeds 3
 ```
